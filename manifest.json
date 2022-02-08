@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "domain": "paperless_ng",
+  "name": "Paperless NG",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/paperless_ng",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@ItsEcholot"
+  ],
+  "iot_class": "local_polling"
+}
