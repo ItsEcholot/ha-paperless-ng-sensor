@@ -1,5 +1,7 @@
 # Home Assistant Paperless-NG Sensor
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
+
 This custom integration adds a sensor with the following attributes:
 
 - `document_tags`: List of Tags defined in Paperless.
